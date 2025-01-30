@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#0823A1"  # Dark blue primary color
+backgroundColor="#f0f8ff"  # Very light blue background color
+secondaryBackgroundColor="#BBDEFB"  # Light blue secondary background color
+textColor="#0823A1"  # Dark blue text color for better contrast
+font="sans serif"
